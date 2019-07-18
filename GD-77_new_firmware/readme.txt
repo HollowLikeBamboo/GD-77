@@ -18,6 +18,15 @@ ComTool:
 ComTool_Binary:
   Precompiled executable for ComTool.
 
+FontConverter:
+  Bitmap font converter for use with the binary font files created by RaysFontEditor.exe.
+
+FontConverter_Binary:
+  Precompiled executable for FontConverter.
+
+OpenGD77CommDriver:
+  Windows comm port driver installer
+
 ------------
 
 baseline/basic_firmware_with_testmode:
