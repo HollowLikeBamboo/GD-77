@@ -1,10 +1,10 @@
-Disclaimer: Do not use for anything right now! The current state is
-            highly experimental only.
+New GD-77 open source firmware written from scratch.
 
-The MCUXpresso project will become a new GD-77 firmware, written from
-scratch and beeing 100% open source using 100% free tools.
+############################################################################################################
+Moved to https://github.com/hamdv/OpenGD77 !!!
 
-------------
+Please update all your links, forks, watches and stars.
+############################################################################################################
 
 firmware:
   Most current development version.
