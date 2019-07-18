@@ -1,6 +1,9 @@
 # GD-77, GD-77S, RD-5R, MD-760, DM-1801 and DM-860
 GD-77, GD-77S, RD-5R, MD-760, DM-1801 and DM-860 reverse engineering
 
+# OpenGD77
+OpenGD77 has been moved to https://github.com/hamdv/OpenGD77 !!! Please update all your links, forks, watches and stars.
+
 # Details
 "Radioddity_GD-77" contains the original encrypted GD-77 firmware files collected by Roger Clark (https://github.com/rogerclarkmelbourne/Radioddity_GD-77.git) as they also are or have been available on the manufacturers web site.
 
