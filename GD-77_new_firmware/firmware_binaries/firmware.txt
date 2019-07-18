@@ -1,6 +1,10 @@
 Changelog
 =========
 
+-----------------------------------
+Moved to https://github.com/hamdv/OpenGD77 !!!
+-----------------------------------
+
 V0.2.4 (OpenGD77 Phase 1 - Release Candidate 1):
 - Bumped STORAGE_MAGIC_NUMBER because it went down inbetween.
 - Additional stuff by Roger Clark, VK3KYY / G4KYF:
